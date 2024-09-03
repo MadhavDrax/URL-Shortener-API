@@ -22,6 +22,7 @@ Welcome to the **URL Shortener API** – your go-to solution for creating sleek,
 
 - **Node.js** and **npm** installed on your machine.
 - A **MongoDB** database (local or cloud-based).
+- **Postman** API testing tool.
 
 ### Installation
 
