@@ -29,3 +29,15 @@ Welcome to the **URL Shortener API** – your go-to solution for creating sleek,
    ```bash
    git clone https://github.com/MadhavDrax/URL-Shortener-API.git
    cd URL-Shortener-API
+
+2. **Install ddependencies**
+   - "express": "^4.19.2", (npm i express) run this in your terminal
+   - "mongoose": "^8.6.0", (npm i mongoose) run this in your terminal
+   - "nodemon": "^3.1.4", (npm i nodemon) run this in your terminal
+   - "shortid": "^2.2.16" (npm i shortid) run this in your terminal
+
+3. **Run NodeJS**
+   - To run project your simply need to type this command (npm start)
+  
+4. **Test API**
+   - For testing you need to download Postman (https://www.postman.com/downloads/) 
