@@ -38,7 +38,7 @@ Welcome to the **URL Shortener API** – your go-to solution for creating sleek,
    - "shortid": "^2.2.16" (npm i shortid) run this in your terminal
 
 3. **Run NodeJS**
-   - To run project your simply need to type this command (npm start)
+   - To run this project you simply need to type this command in terminal (npm start)
   
 4. **Test API**
    - For testing you need to download Postman (https://www.postman.com/downloads/) 
