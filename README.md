@@ -31,7 +31,7 @@ Welcome to the **URL Shortener API** – your go-to solution for creating sleek,
    git clone https://github.com/MadhavDrax/URL-Shortener-API.git
    cd URL-Shortener-API
 
-2. **Install ddependencies**
+2. **Install dependencies**
    - "express": "^4.19.2", (npm i express) run this in your terminal
    - "mongoose": "^8.6.0", (npm i mongoose) run this in your terminal
    - "nodemon": "^3.1.4", (npm i nodemon) run this in your terminal
